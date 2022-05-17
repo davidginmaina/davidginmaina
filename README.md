@@ -15,3 +15,5 @@ I'm a freelance Android and Developer with speciaty in Front-End development, fu
 davidginmaina/davidginmaina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+### Languages and tools
+![image](https://user-images.githubusercontent.com/94485766/168801795-0d2d8f8e-6f12-482d-892e-9283788e623e.png)
