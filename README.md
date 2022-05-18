@@ -1,6 +1,6 @@
 ## Hello 👋, I’m David Maina Githinji
 ---
-I'm a freelance Android and Developer with speciaty in Front-End development, functionality, and UX Design. I am outgoing, dedicated,and open-minded. I get across to people and adjust to changes easily. Its my belief that someone should work on developing their professional skills and learning new things all the time. 
+I'm a freelance Android and Developer with speciaty in Front-End development, functionality, and UX Design. I am outgoing, dedicated,and open-minded. I get across to people and adjust to changes easily. Its my belief that someone should work on developing their professional skills and learning new things all the time. I also do technical writing at Section.
 
 - 👀 I’m interested in develping android apps using Kotlin
 - :sparkling_heart: Loving developing applications using Jetpack compose.
